@@ -16,3 +16,7 @@ Right now, my main focus is to soak up as much knowledge as possible during my c
 If you want to connect or check out the stuff I build, feel free to explore my GitHub! Or, if you *really* have nothing better to do, you can also find me on Discord and LinkedIn.
 
 See ya! 🚀
+
+---
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CalvinOgata)](https://github.com/stats-organization/github-stats-extended)
