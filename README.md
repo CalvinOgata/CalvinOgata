@@ -18,5 +18,6 @@ If you want to connect or check out the stuff I build, feel free to explore my G
 See ya! 🚀
 
 ---
-
+<div align="center">
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CalvinOgata&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=onedark)
+</div>
