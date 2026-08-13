@@ -19,4 +19,4 @@ See ya! 🚀
 
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CalvinOgata)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CalvinOgata&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=onedark)
